@@ -1,5 +1,4 @@
 # python-programs
----
 ![example workflow](https://github.com/abhilashgcp/python-programs/actions/workflows/test.yml/badge.svg)
 
 ## Data structure Algorithm Questions
@@ -14,4 +13,4 @@ python programs_unittest.py
 
 
 ## Contact
-[gitlab]: https://gitlab.com/abhilashgcp
+- abhilashgcp@gmail.com
