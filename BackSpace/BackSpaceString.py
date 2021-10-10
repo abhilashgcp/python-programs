@@ -29,6 +29,6 @@ def backSpaceString (s,t):
             i += 1
     return s == t
 
-print (backSpaceString("#ab#cd", "#ad#cd" ))
-print (backSpaceString("#", "#" ))
-print (backSpaceString("#ab#cd", "#ad#ed" ))
+# print (backSpaceString("#ab#cd", "#ad#cd" ))
+# print (backSpaceString("#", "#" ))
+# print (backSpaceString("#ab#cd", "#ad#ed" ))
